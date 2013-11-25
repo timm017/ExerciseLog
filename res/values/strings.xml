@@ -21,5 +21,9 @@
 
     <!-- Log Form -->
     <string name="title_activity_log">LogActivity</string>
+    
+    <!-- Date picker -->
+    <string name="date_current_date">Current Date (M-D-YYYY)</string>
+    <string name="date_change_date">Change Date</string>
 
 </resources>
