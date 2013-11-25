@@ -43,12 +43,4 @@ public class LogActivity extends Activity
 		actionbar.addTab(LogViewTab);
 	}
 
-	@Override
-	public boolean onCreateOptionsMenu(Menu menu)
-	{
-		// Inflate the menu; this adds items to the action bar if it is present.
-		getMenuInflater().inflate(R.menu.log, menu);
-		return true;
-	}
-
 }
